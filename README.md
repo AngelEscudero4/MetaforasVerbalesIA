@@ -3,8 +3,8 @@ Programa realizado durante la beca de colaboración con el departamento de Intel
 
 Proyecto hecho desde eclipse, explico como configurarlo aquí:
 
-** File -> Open proyects from file system -> seleccionas src
-** Click derecho en src, build path, add external archives, json-simple-1.1.1.jar, lo encuentras en https://code.google.com/archive/p/json-simple/
+File -> Open proyects from file system -> seleccionas src
+Click derecho en src, build path, add external archives, json-simple-1.1.1.jar, lo encuentras en https://code.google.com/archive/p/json-simple/
 (necesario para Thesaurus -> https://thesaurus.altervista.org/testjava)
 
 
