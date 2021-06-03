@@ -1,6 +1,8 @@
 # MetaforasVerbalesIA
 Programa realizado durante la beca de colaboración con el departamento de Inteligencia Artificial UPM ETSIINF en el año 2021.
 
+Una vez detectada una metáfora en la que el verbo es el responsable, se decide sustituir este verbo por un sinónimo, buscando el más utilizado proporcionado por la RAE.
+
 Proyecto hecho desde eclipse, explico como configurarlo aquí:
 
 File -> Open proyects from file system -> seleccionas src.
