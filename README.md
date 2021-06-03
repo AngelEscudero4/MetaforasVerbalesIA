@@ -8,7 +8,7 @@ Click derecho en src, build path, add external archives, json-simple-1.1.1.jar, 
 (necesario para Thesaurus -> https://thesaurus.altervista.org/testjava)
 
 
-****** MetaforasVerbales.java ******
+## MetaforasVerbales.java 
 
 Para que se vea correctamente las tildes poner en codificacion UTF-8
 
@@ -26,7 +26,7 @@ Para que se vea correctamente las tildes poner en codificacion UTF-8
 	 
    
    
-****** filtrarFrecuencia.java ******
+## filtrarFrecuencia.java
 	 
 * frecsPalabras.txt -> Si se quiere actualizar o saber como lo he conseguido:
 	* Descargar lista total de frecuencias de http://corpus.rae.es/lfrecuencias.html
