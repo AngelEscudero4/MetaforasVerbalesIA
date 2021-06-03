@@ -1,5 +1,5 @@
 # MetaforasVerbalesIA
-Programa realizado durante la beca de colaboración con el departamento de Inteligencia Artificial en el año 2021
+Programa realizado durante la beca de colaboración con el departamento de Inteligencia Artificial UPM ETSIINF en el año 2021
 
 Proyecto hecho desde eclipse, explico como configurarlo aqui (desde otro editor no se como sera):
 
